@@ -1,0 +1,5 @@
+separator = input()
+first_line = input()
+second_line = input()
+third_line = input()
+print(first_line, second_line, third_line, sep=separator)
