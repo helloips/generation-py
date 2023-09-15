@@ -1,3 +1,5 @@
+# https://stepik.org/lesson/275252/step/6?unit=256355
+
 separator = input()
 first_line = input()
 second_line = input()

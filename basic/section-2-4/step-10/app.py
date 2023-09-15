@@ -1,3 +1,5 @@
+# https://stepik.org/lesson/265079/step/10?unit=246027
+
 monitor_cost = int(input())
 system_unit_cost = int(input())
 keyboard_cost = int(input())
