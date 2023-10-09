@@ -1,6 +1,8 @@
-i = 7
-a = 5
-while i < 11:
-    a += i
-    i += 2
-print(a)
+mult = 1
+for i in range(1, 11):
+    if i % 2 == 0:
+        continue
+    if i % 9 == 0:
+        break
+    mult *= i
+print(mult)
